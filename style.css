@@ -1,0 +1,80 @@
+#img-perfil{
+    width: 300px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.lead {
+    text-align: center;
+}
+
+.bg-primary{
+    background-color: #853a6d!important;
+    color: #ffffff;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+.text-bg-primary{
+    background-color: #853a6d!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 10px 15px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url(images/LoNeuroCosas.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#proyecto-2{
+    background-image: url(images/techinbrain.jpeg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+#proyecto-3{
+    background-image: url(images/proyecto1.jpeg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #853a6d;
+    height: 5px;
+}
+
+.carousel-control-prev .carousel-control-prev-icon,
+.carousel-control-next .carousel-control-next-icon {
+  filter: invert(100%); /* Change the color of both icons */
+}
+
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+}
+
+footer svg {
+    fill: #000000;
+}
